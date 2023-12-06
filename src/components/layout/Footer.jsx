@@ -9,9 +9,15 @@ const Footer = () => {
         <p>We are trying to give you the best taste possible.</p>
         <br />
         <em>We give attention to genuine feedback.</em>
-        <strong>All right received @burgershop</strong>
+        <br />
+        <strong>
+          All right received
+          <br />
+          @burgershop {new Date().getFullYear()}
+        </strong>
       </div>
       <aside>
+        <br />
         <h4>Follow Us</h4>
         <a href="https://youtube.com/xyz">
           <AiFillYoutube />
