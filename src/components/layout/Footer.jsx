@@ -11,9 +11,8 @@ const Footer = () => {
         <em>We give attention to genuine feedback.</em>
         <br />
         <strong>
-          All right received
-          <br />
-          @burgershop {new Date().getFullYear()}
+          <p>All right received</p>
+          <p>@burgershop {new Date().getFullYear()}</p>
         </strong>
       </div>
       <aside>
